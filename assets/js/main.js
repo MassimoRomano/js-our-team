@@ -1,3 +1,5 @@
+console.log('funziona');
+
 const team = [
     {
       name: 'Wayne Barnett',
@@ -30,3 +32,6 @@ const team = [
       image: 'barbara-ramos-graphic-designer.jpg',
     },
   ];
+
+
+  const teamContainer = document.getElementById('team-container');
